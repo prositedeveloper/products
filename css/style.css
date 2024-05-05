@@ -725,6 +725,10 @@ body {
         justify-content: center;
     }
 
+    .number-item {
+        width: 100%;
+    }
+
     .fruits-block img {
         width: 28rem;
         height: 22rem;
